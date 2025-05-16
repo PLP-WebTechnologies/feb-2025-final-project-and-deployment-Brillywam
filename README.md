@@ -2,17 +2,22 @@
 
 Welcome to **Kina Bosco Paradiso** – a multipage website about quality pet products! Our multipage website is designed to offer a seamless and vibrant shopping experience.
 
+---
+
+## 🌐 Live Website
+
+👉 **[View the deployed site here!](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Brillywam/)**
+
+---
+
 ## 📄 Pages Overview
 
 - **Home**:  
   🌟 Features our hero section with a call-to-action and a product slider.
-  
 - **Products**:  
   🛒 Browse our diverse range of pet food, toys, and accessories with interactive product cards.
-  
 - **About Us**:  
   🏠 Learn about our mission, values, and dedication to enhancing pet care.
-  
 - **Contact**:  
   📞 Get in touch with us for any questions or support.
 
@@ -21,6 +26,7 @@ Welcome to **Kina Bosco Paradiso** – a multipage website about quality pet pro
 - **Responsive Design** 📱: Enjoy a smooth layout on every device.
 - **Interactive Elements** ✨: Dynamic slides, hover effects, and a user-friendly navigation menu.
 - **Modern Aesthetics** 💻: A clean, bold design with vibrant visuals and stylish typography.
+- **Cross-Browser Compatibility** 🌐: Optimized for all major browsers.
 
 ## 🔧 Technologies Used
 
@@ -32,7 +38,7 @@ Welcome to **Kina Bosco Paradiso** – a multipage website about quality pet pro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Brillywam/feb-2025-final-project-and-deployment-Brillywam.git
+   git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-Brillywam.git
    ```
 2. **Open the project:**  
    Use your favorite code editor to open the project folder.
